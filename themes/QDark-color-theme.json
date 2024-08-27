@@ -70,6 +70,7 @@
 			"scope": [
 				"keyword",
 				"keyword.control",
+				"keyword.other",
 				"storage.type",
 				"storage.modifier",
 			],
@@ -150,8 +151,7 @@
 				"constant.character",
 				"constant.escape",
 				"variable.parameter",
-				"keyword.other.unit",
-				"keyword.other"
+				"keyword.other.unit"
 			],
 			"settings": {
 				"foreground": "#bbbbff"
