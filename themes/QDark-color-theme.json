@@ -21,7 +21,6 @@
 		{
 			"name": "Variables",
 			"scope": [
-				"variable",
 				"string constant.other.placeholder"
 			],
 			"settings": {
@@ -31,7 +30,7 @@
 		{
 			"name": "Variables-Member",
 			"scope": [
-				"variable.other",
+				"variable.other.property.cpp",
 			],
 			"settings": {
 				"foreground": "#FFAA77"
@@ -73,6 +72,7 @@
 				"keyword.other",
 				"storage.type",
 				"storage.modifier",
+				"constant.language"
 			],
 			"settings": {
 				"foreground": "#ffff77"
@@ -144,9 +144,8 @@
 		{
 			"name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
 			"scope": [
-				"variable.other.local",
+				"variable.other",
 				"constant.numeric",
-				"constant.language",
 				"support.constant",
 				"constant.character",
 				"constant.escape",
