@@ -72,7 +72,8 @@
 				"keyword.other",
 				"storage.type",
 				"storage.modifier",
-				"constant.language"
+				"constant.language",
+				"constant.language.nullptr.cpp"
 			],
 			"settings": {
 				"foreground": "#ffff77"
