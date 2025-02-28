@@ -1,5 +1,6 @@
 {
 	"name": "QDark",
+	"type": "dark",
 	"colors": {
 		"editor.background": "#000000",
 		"editor.foreground": "#eeffff",

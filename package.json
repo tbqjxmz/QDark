@@ -1,21 +1,21 @@
 {
-  "name": "qdark",
-  "displayName": "QDark",
-  "description": "",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.91.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "QDark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/QDark-color-theme.json"
-      }
-    ]
-  }
+	"name": "qdark",
+	"displayName": "QDark",
+	"description": "Qt暗色主题",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.97.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "QDark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/QDark-color-theme.json"
+			}
+		]
+	}
 }
