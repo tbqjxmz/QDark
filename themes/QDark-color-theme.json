@@ -68,7 +68,6 @@
 			"name": "Keyword, Storage",
 			"scope": [
 				"keyword",
-				"keyword.control",
 				"keyword.other",
 				"storage.type",
 				"storage.modifier",
@@ -91,9 +90,7 @@
 				"punctuation.definition.tag.html",
 				"punctuation.definition.tag.begin.html",
 				"punctuation.definition.tag.end.html",
-				"punctuation.section.embedded",
-				"keyword.other.template",
-				"keyword.other.substitution"
+				"punctuation.section.embedded"
 			],
 			"settings": {
 				"foreground": "#89DDFF"
@@ -150,8 +147,7 @@
 				"support.constant",
 				"constant.character",
 				"constant.escape",
-				"variable.parameter",
-				"keyword.other.unit"
+				"variable.parameter"
 			],
 			"settings": {
 				"foreground": "#bbbbff"
