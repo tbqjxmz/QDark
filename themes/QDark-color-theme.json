@@ -115,7 +115,8 @@
 				"meta.function-call",
 				"variable.function",
 				"support.function",
-				"keyword.other.special-method"
+				"keyword.other.special-method",
+				"entity.other.attribute-name.localname.xml"
 			],
 			"settings": {
 				"foreground": "#00aaff"
@@ -180,7 +181,8 @@
 				"support.other.namespace.php",
 				"markup.changed.git_gutter",
 				"support.type.sys-types",
-				"variable.other.enummember"
+				"variable.other.enummember",
+				"entity.name.tag.localname.xml"
 			],
 			"settings": {
 				"foreground": "#55ff55"
