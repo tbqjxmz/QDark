@@ -32,6 +32,7 @@
 			"name": "Variables-Member",
 			"scope": [
 				"variable.other.property.cpp",
+				"source.python"
 			],
 			"settings": {
 				"foreground": "#FFAA77"
